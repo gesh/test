@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SessionStack",
-            url: "https://storage.googleapis.com/ios-swift-sdk/SessionStack-1.0.0.zip",
-            checksum: "52ad7ab211d032816a93f24ca7d266ad667c038abd41e29fe37e7f5659236431"
+            url: "https://storage.googleapis.com/ios-swift-sdk/SessionStack-1.0.1.zip",
+            checksum: "fecc1b098e40879c2a21e6f8d6bab838b24657f98488b17b6d5916536433ab5b"
         ),
     ]
 )

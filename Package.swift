@@ -1,4 +1,3 @@
-// swift-tools-version:5.5
 import PackageDescription
 
 let package = Package(
@@ -16,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SessionStack",
-            url: "https://storage.googleapis.com/ios-swift-sdk/SessionStack-1.0.13.zip",
-            checksum: "6aae0eddb01d89b1ea956fdc7cbe76dd5222c5f88c51fbc34e8b8e5fe2c14d19"
+            url: "https://storage.googleapis.com/ios-swift-sdk/SessionStack-0.9.16.zip",
+            checksum: "8617e25d5626eba0e28174636bafa8060af7213790bec9833a08a780387d184d"
         ),
     ]
 )
